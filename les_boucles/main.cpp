@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;    // standard
+using namespace std;    // outils standard du C++
 
 int main()
 {
