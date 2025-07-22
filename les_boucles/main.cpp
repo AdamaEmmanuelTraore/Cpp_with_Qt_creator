@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;    // outils standard du C++
+using namespace std;    // outils standard du C++ (librairie standard)
 
 int main()
 {
@@ -19,3 +19,6 @@ int main()
 
     return 0;
 }
+
+
+// N.B: on utilise l'opérateur de portée (::) si on ne définis pas la librairie standard.
